@@ -1,0 +1,174 @@
+/*ESTILOS GERAIS*/
+
+*{
+    font-family: 'Edu TAS Beginner', cursive;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 10px;
+}
+
+body{
+    font-family: "Raleway", Arial, Helvetica, sans-serif;
+    background: linear-gradient(#030405,#1c2125,#2a3237,#bdc3c7);
+    
+}
+
+.btn {
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    font-weight: bold;
+    border-radius: 3rem;
+    padding: 1rem 2rem;
+}
+
+.btn-branco{
+    color: rgb(9, 4, 12);
+    background-color: aliceblue;
+}
+
+a{
+    text-decoration: none;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0em;
+    margin-inline-end: 0em;
+    color: aliceblue;
+}
+
+h3 {
+    font-size: 2.5rem;
+    color: aliceblue;
+}
+
+div{
+    display: block;
+}
+
+/*ESTILOS DO BANNER*/
+.banner-div {
+    font-family:'Edu TAS Beginner', cursive;
+    height: 90vh;
+    text-align: center;
+    padding-top: 20rem;
+    color: aliceblue;
+    background: url(../IMG/banner.jpg) center center/ cover no-repeat;
+}
+
+.banner-container {
+    /*max-width: 1080px;*/
+    margin: 10rem auto;
+    background-color: rgba(0,0,0,.5);
+    color: #fff;
+    
+}
+
+.banner-titulo{
+    font-size: 5rem;
+}
+
+.banner-subtitulo{
+    font-size: 2.3rem;
+}
+
+.margin-bottom{
+    margin-bottom: 2rem;
+}
+
+/*ESTILO DA SEÇÃO SOBRE MIM*/
+
+.sobre-container{
+    margin: 5rem;
+}
+
+.sobre-titulo{
+    font-size: 4rem;
+    color: white;
+}
+
+.sobre-descricao_div{
+    width: 40%;
+    display: inline-block;
+    line-height: 1.5;
+}
+
+.sobre-descricao_destaque{
+    font-size: 2rem;
+    color: aliceblue;
+    text-align: justify;
+}
+
+.sobre-descricao_texto{
+    display: inline-block;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+
+.btn-preto{
+    color: aliceblue;
+    border-width: 1px;
+    border-style: solid;
+    border-color: aliceblue;
+    border-image: initial;
+    background-color: #030405;
+}
+
+.sobre-habilidades_div{
+    width: 30%;
+    display: inline-block;
+    line-height: 1.5;
+    margin-left: 10rem;
+    text-align: justify;
+}
+
+.sobre-habilidades_titulo{
+    font-size: 2rem;
+}
+
+.sobre-habilidades_lista{
+    padding-left: 2rem;
+    line-height: 2;
+    font-size: 1.6rem;
+    color: aliceblue;
+}
+
+/*ESTILO REDES SOCIAIS*/
+
+.redes-sociais_div{
+    text-align: center;
+    margin: 3rem;
+    margin-bottom: 80px;
+}
+
+.redes-sociais_item{
+    display: inline-block;
+    width: 20%;
+    background: linear-gradient(#bdc3c7,#2a3237,#1c2125,#030405);
+    text-align: center;
+    color: black;
+    padding: 2rem 0px;
+    margin: 0px 1rem;
+}
+
+
+.redes-sociais_imagem{
+    height: 10%;
+    width: 30%;
+    margin-bottom: 0.5rem;
+    border-radius: 100%;
+}
+
+
+
+
+
+
+
+
+
+
