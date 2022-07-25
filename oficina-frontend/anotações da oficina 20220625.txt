@@ -1,0 +1,61 @@
+ANOTAÇÕES DURANTE A OFICINA:
+
+<> tag - etiqueta para marcar a estrutura do nosso site.
+
+<title> </title> - título que fica na aba do Chrome
+
+plugin -> open in default browser
+
+heading 1 - título principal
+(h2,h3,h4,h5)
+heading  6 - título final
+
+F12 - atalho para abrir o INSPECIONAR
+
+Ctrl+ s para salvar o documento
+
+<p></p> parágrafo
+
+<a> </a> ancora, quiser criar um link na página
+
+<div> </div> são caixinhas, container, divisões
+
+shift + alt + f (endentação) - criar os documentos sempre com a hierarquia, ajuda visualmente para entender a semântica do html
+
+target="_blank" para ao clicar em um link abrir o link em uma nova aba do Chrome
+
+href="site" código para referenciar o site no link
+
+Alt + ↑ isso move os códigos para cima 
+
+<!--COMENTÁRIO --> faz o comentário no código 
+
+loren ipsulun preenche o texto com qualquer coisar em latim.
+
+<strong> </strong> faz um negrito no HTML
+
+alt+z quebra de linha
+
+<li></li> lista sem ordenação numérica
+
+<ol></ol> lista ordenada numérica
+
+wireframe:  como um esqueleto, um protótipo ou uma versão bastante primitiva do visual de um projeto.
+
+a*4 = atalho da vscode para criar quatro <a></a>
+
+src = endereço da imagem
+
+alt = texto alternativo da imagem
+
+. para entrar na pasta
+
+classe é um atributo, que dá um nome para tag e pode ser estilizada no css
+
+linkar a folha de estilo com o html
+
+asterisco * no css indica que está pegando todos os elementos da página.
+
+user agent stylesheet = estilo criado pelo browser
+
+
